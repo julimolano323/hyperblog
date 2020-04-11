@@ -21,3 +21,8 @@ body
     font-weight: 700;
     font-size: 25px;
 }
+
+#cabecera img
+{
+    width: 30%;
+}
