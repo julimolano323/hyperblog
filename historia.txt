@@ -2,4 +2,4 @@ Esta es la historia de Julian Molano
 
 Creció en Bogotá y se mudo a Pereira
 
-Y hoy  está aprendiendo Git :P
+Y hoy  está aprendiendo Git
